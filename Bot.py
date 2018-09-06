@@ -34,4 +34,4 @@ if __name__ == "__main__":
             print('Failed to load extension {}\n{}'.format(extension,exc))
 
 
-bot.run("NDg3MTY3NTk4ODI0MjU5NTg1.DnJuCQ.4K0nLZ8fPiCBOXNXLsDIbOQUWWA") #Insert your bots token here
+bot.run("TOKEN") #Insert your bots token here
